@@ -1,0 +1,1 @@
+sudo apt update && sudo apt upgrade && sudo apt install ubuntu-restricted-extras ffmpeg vlc python3-pip python-pip python3-tk python3-virtualenv python3-venv clang wget curl git gparted
